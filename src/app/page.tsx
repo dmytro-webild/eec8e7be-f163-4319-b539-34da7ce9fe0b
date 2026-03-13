@@ -53,7 +53,6 @@ export default function LandingPage() {
           imagePosition="right"
           mediaAnimation="slide-up"
           buttons={[
-            { text: "Start Your Project", href: "contact" },
             { text: "View Portfolio", href: "portfolio" }
           ]}
           buttonAnimation="slide-up"
