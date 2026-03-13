@@ -71,37 +71,37 @@ export default function LandingPage() {
             {
               id: 1,
               title: "Web Design",              description: "Clean, modern, mobile responsive designs that captivate your audience and drive engagement.",              phoneOne: {
-                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Arno4lKGvXAkAyE7CXONX7CpOY/an-icon-or-illustration-representing-web-1773365537341-5355d884.png"
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Arno4lKGvXAkAyE7CXONX7CpOY/an-icon-or-illustration-representing-web-1773365537341-5355d884.png?_wi=1"
               },
               phoneTwo: {
-                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Arno4lKGvXAkAyE7CXONX7CpOY/an-icon-or-illustration-representing-web-1773365537341-5355d884.png"
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Arno4lKGvXAkAyE7CXONX7CpOY/an-icon-or-illustration-representing-web-1773365537341-5355d884.png?_wi=2"
               }
             },
             {
               id: 2,
               title: "Business Website Builds",              description: "Tailored solutions for small businesses that convert visitors into customers.",              phoneOne: {
-                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Arno4lKGvXAkAyE7CXONX7CpOY/an-icon-or-illustration-representing-bus-1773365537041-7e528a04.png"
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Arno4lKGvXAkAyE7CXONX7CpOY/an-icon-or-illustration-representing-bus-1773365537041-7e528a04.png?_wi=1"
               },
               phoneTwo: {
-                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Arno4lKGvXAkAyE7CXONX7CpOY/an-icon-or-illustration-representing-bus-1773365537041-7e528a04.png"
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Arno4lKGvXAkAyE7CXONX7CpOY/an-icon-or-illustration-representing-bus-1773365537041-7e528a04.png?_wi=2"
               }
             },
             {
               id: 3,
               title: "Performance & SEO",              description: "Fast, optimized, search-friendly websites that rank and perform.",              phoneOne: {
-                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Arno4lKGvXAkAyE7CXONX7CpOY/an-icon-or-illustration-representing-per-1773365536740-93da0ca6.png"
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Arno4lKGvXAkAyE7CXONX7CpOY/an-icon-or-illustration-representing-per-1773365536740-93da0ca6.png?_wi=1"
               },
               phoneTwo: {
-                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Arno4lKGvXAkAyE7CXONX7CpOY/an-icon-or-illustration-representing-per-1773365536740-93da0ca6.png"
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Arno4lKGvXAkAyE7CXONX7CpOY/an-icon-or-illustration-representing-per-1773365536740-93da0ca6.png?_wi=2"
               }
             },
             {
               id: 4,
               title: "Mobile Responsive Sites",              description: "Perfect on phones, tablets, and desktops. Works everywhere, every time.",              phoneOne: {
-                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Arno4lKGvXAkAyE7CXONX7CpOY/an-icon-or-illustration-representing-mob-1773365537786-5cdf2d63.png"
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Arno4lKGvXAkAyE7CXONX7CpOY/an-icon-or-illustration-representing-mob-1773365537786-5cdf2d63.png?_wi=1"
               },
               phoneTwo: {
-                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Arno4lKGvXAkAyE7CXONX7CpOY/an-icon-or-illustration-representing-mob-1773365537786-5cdf2d63.png"
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Arno4lKGvXAkAyE7CXONX7CpOY/an-icon-or-illustration-representing-mob-1773365537786-5cdf2d63.png?_wi=2"
               }
             }
           ]}
