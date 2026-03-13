@@ -53,7 +53,7 @@ export default function LandingPage() {
           imagePosition="right"
           mediaAnimation="slide-up"
           buttons={[
-            { text: "View Portfolio", href: "portfolio", props: { hideWebildBadge: true } }
+            { text: "View Portfolio", href: "portfolio" }
           ]}
           buttonAnimation="slide-up"
         />
