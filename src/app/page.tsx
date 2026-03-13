@@ -78,7 +78,7 @@ export default function LandingPage() {
             },
             {
               id: 2,
-              title: "Business Website Builds",              description: "Tailored solutions for small businesses that convert visitors into customers.",              phoneOne: {
+              title: "Business Website Builds",              description: "Tailored solutions for businesses that convert visitors into customers.",              phoneOne: {
                 imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Arno4lKGvXAkAyE7CXONX7CpOY/an-icon-or-illustration-representing-bus-1773365537041-7e528a04.png?_wi=1"
               },
               phoneTwo: {
